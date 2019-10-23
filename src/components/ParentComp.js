@@ -36,4 +36,4 @@ class ParentComp extends Component {
     }
 }
 
-export default ParentComp
+export default ParentComp 
